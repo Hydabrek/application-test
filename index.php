@@ -11,7 +11,6 @@
  *	Add a button to each row which, when clicked, will alert the person's name and email.
  *
  *	Place your code in index.php. Feel free to use the snippets below to get started.
- john.smith@hotmail.com
  */
 $people = array(
    array('id'=>1, 'first_name'=>'John', 'last_name'=>'Smith', 'email'=>'john.smith@hotmail.com'),
